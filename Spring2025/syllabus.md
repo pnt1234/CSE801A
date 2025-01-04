@@ -14,7 +14,7 @@
 ### Course Description: 
 This course is intended for students who are interested to gain hands-on experience applying computational techniques to solve big data problems.
 The course will cover a variety of topics from data collection and preprocessing to data analysis and large-scale database querying. Students are 
-expected to already have some prior background in Python.
+expected to already have some prior background in programming, especially in Python.
 
 There is no main textbook for the class. Lecture notes will be posted on D2L. You may use the following reference books for some of the topics covered in this class.
 -	Introduction to Data Mining (Pang-Ning Tan, Michael Steinbach, Anuj Karpatne, and Vipin Kumar), 2nd Edition, Addison Wesley, 2018. Sample chapters are available [here](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php).
