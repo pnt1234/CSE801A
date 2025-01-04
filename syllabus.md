@@ -9,7 +9,7 @@
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
 - Instructor's office hours: Mon, Wed 12:00-1:00pm in EB 2129
 - Teaching Assistant:  Francisco Santos [[email](mailto:santosf3@msu.edu)] 
-- TA's office hours: TBD
+- TA's office hours: Fri 1:00-2:00pm
 
 ### Course Description: 
 This course is intended for students who are interested to gain hands-on experience applying computational techniques to solve big data problems.
@@ -37,24 +37,20 @@ If you need technical assistance at any time during the course or to report a pr
 - Visit the Desire2Learn [Help Site](http://help.d2l.msu.edu/).  
 - Or call Distance Learning Services: (800) 500-1554 or (517) 355-2345.
 
-### Class Recordings  
-Each lecture session of this course will be recorded. The recordings will be available to students registered for this class. This is intended to supplement the classroom experience. Students  are  expected to follow appropriate University policies and maintain the security of passwords used to access recorded lectures. Recordings may not be  reproduced, shared with those not in the class, or uploaded to other online environments. Doing so may result in disciplinary action. 
-
 ### Course Outline: 
 The topics to be covered in this course include:
-- Data collection, querying, and preprocessing (3 weeks)
-- Overview of data analysis techniques (4-5 weeks)
-- Big data programming techniques (5-6 weeks)
-- Applications (1 week)
+- Data collection, querying, and preprocessing
+- Overview of data analysis techniques
+- Big data programming techniques 
+- Applications 
 
-A tentative class schedule can be found [here](https://pnt1234.github.io/CSE482/schedule). 
+A tentative class schedule can be found [here](https://pnt1234.github.io/CSE801A/schedule). 
 
 ### Course Assessment:
 Students will be assessed based on the following:
 - Homework (50%)
 - Weekly exercises (30%)
-- Mini-Project (10%)
-- Exam (10%)
+- Exams (20%)
 
 The final grade will be determined based on the following scale:
 
@@ -77,7 +73,7 @@ Note that the scheduled online lectures will begin on Jan 20. There are no onlin
 - **Weekly Exercises:** Weekly exercises are due on Fridays before midnight. These are short questions that require you to write programs based on the examples shown in class. The goal of these exercises is to help you get familiarize with the tools/programming languages used in the class. Only the top-10 highest scores from the exercises will be used to compute your final grade. 
 - **Assignment and Late Submission Policy:** Homework assignments are due before midnight on the due date unless specified otherwise.  You must use [D2L](http://d2l.msu.edu) to submit a soft copy of your solution. Late assignments will be penalized 25% of the total possible assignment grade (if submitted the next day after the deadline) or 50% (if submitted the second day after the deadline). Assignments submitted later than that will not be accepted.
 - **Exam Information:** An online exam will be given during the semester. The exam will be open book and notes. Students must make arrangements to take the exam synchronously via zoom. You need to have a second camera available (e.g., from your phone) to display your computer screen during the exam. Make-up examination can be arranged if your absence is due to conference travel, documented illness, personal emergency, or if your location prohibits doing the exam in synchronous mode. A written explanation (including supporting documentation) must be submitted to the instructor; if the explanation is acceptable, an alternative to the examination will be arranged. Except for emergency cases, make-up arrangements must be made in advance, at least a week before the scheduled exam. 
-- **Discussion Forum:** We will be using [Piazza](https://piazza.com/msu/spring2021/cse482/home) for class discussion. Rather than emailing class-related questions to the instructor and TA, you are strongly encouraged to post them on Piazza. However, do not post your solution or attempted solution (e.g., for programming exercises, assignments or project) on Piazza. 
+- **Discussion Forum:** We will be using [Piazza]([https://piazza.com/msu/spring2025/cse801a](https://piazza.com/msu/spring2025/cse801a)) for class discussion. Rather than emailing class-related questions to the instructor and TA, you are strongly encouraged to post them on Piazza. However, do not post your solution or attempted solution (e.g., for programming exercises, assignments or project) on Piazza. 
 - **Study Groups:** You are allowed to form study groups to learn the materials in class. However, you are forbidden from sharing the solution of your programming exercises, homework assignments, and programming project with other students. All submitted assignments must be your own work. Students who were found copying or sharing their solutions with other students will automatically receive a zero for the entire assignment. In addition, an Academic Dishonesty Report will be filed and submitted to the university.
 - **Resources for Persons with Disabilities (RCPD):** Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at rcpd.msu.edu. Once your eligibility for an accommodation has been determined, you will be issued a verified individual services accommodation (“VISA”) form. Please present this form to me at the start of the term and/or two weeks prior to the accommodation date (exam, homework, project, etc). To make an appointment with a specialist, contact:  (517) 353-9642 or TTY:  (517) 355-1293. The website for RCPD is located at [http://MYProfile.rcpd.msu.edu](http://MYProfile.rcpd.msu.edu).
 - **Academic Honesty:** All students are expected to be responsible users of the computer system provided by the Department of Computer Science and Engineering and College of Engineering. The Department of Computer Science adheres to the policies on academic honesty as specified in General Student Regulations 1.0, Protection of Scholarship and Grades, and in the all-University Policy on Integrity of Scholarship and Grades, which are included in Spartan Life; Student Handbook and Resource Guide. Students who plagiarize will receive a 0.0 on the assignment/exam/project/quiz.  
