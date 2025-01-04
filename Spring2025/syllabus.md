@@ -44,7 +44,7 @@ The topics to be covered in this course include:
 - Big data programming techniques 
 - Applications 
 
-A tentative class schedule can be found [here](https://pnt1234.github.io/CSE801A/schedule). 
+A tentative class schedule can be found [here](https://pnt1234.github.io/CSE801A/Spring2025/schedule). 
 
 ### Course Assessment:
 Students will be assessed based on the following:
