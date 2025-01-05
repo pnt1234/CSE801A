@@ -10,6 +10,7 @@
 - Instructor's office hours: Mon, Wed 12:00-1:00pm in EB 2129
 - Teaching Assistant:  Francisco Santos [[email](mailto:santosf3@msu.edu)] 
 - TA's office hours: Fri 1:00-2:00pm
+- Office hour zoom link: [https://msu.zoom.us/j/91605552001](https://msu.zoom.us/j/91605552001) Passcode: 394098
 
 ### Course Description: 
 This course is intended for students who are interested to gain hands-on experience applying computational techniques to solve big data problems.
@@ -29,7 +30,7 @@ There is no main textbook for the class. Lecture slides will be posted on D2L. Y
 -	Laptop or desktop computer with capabilities to write and execute python programs. 
 
 ### Course Delivery:
-This course will be delivered through online (synchronous) instruction. You will need your MSU NetID to login to the course content on the D2L homepage (http://d2l.msu.edu). In D2L, you will access the course materials, quizzes, assignments, and additional resources. Zoom links for online lecture and office hours are also posted on D2L. [Piazza](https://piazza.com/msu/spring2025/cse801a) will be used as the discussion forum for students to ask questions. 
+This course will be delivered in person. You will need your MSU NetID to login to the course content on the D2L homepage (http://d2l.msu.edu). In D2L, you will access the course materials, quizzes, assignments, and additional resources. Zoom links for online lecture and office hours are also posted on D2L. [Piazza](https://piazza.com/msu/spring2025/cse801a) will be used as the discussion forum for students to ask questions. 
 
 ### D2L Technical Assistance
 If you need technical assistance at any time during the course or to report a problem you can:
