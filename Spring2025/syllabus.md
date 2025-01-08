@@ -49,9 +49,10 @@ A tentative class schedule can be found [here](https://pnt1234.github.io/CSE801A
 
 ### Course Assessment:
 Students will be assessed based on the following:
-- Homework (50%)
+- Homework (45%)
 - Weekly exercises (30%)
 - Exams (20%)
+- Attendance (5%)
 
 The final grade will be determined based on the following scale:
 
@@ -73,7 +74,7 @@ More details about the academic calendar can be found at [https://reg.msu.edu/RO
 
 ### Course Policies:
 
-- **Attendance and Participation:** Students are expected to attend all the lectures and must inform the instructor if they are unable to do so due to emergency or other legitimate reasons. 
+- **Attendance and Participation:** Students are expected to attend all the lectures and must inform the instructor if they are unable to do so due to emergency or other legitimate reasons. Failure to attend more than 5 lectures without permission from the instructor will result in 5% penalty in your overall grade.
 - **Weekly Exercises:** Weekly exercises are due on Fridays before midnight. These are short questions that require you to write programs based on the examples shown in class. The goal of these exercises is to help you get familiarize with the tools/programming languages used in the class. Only the top-10 highest scores from the exercises will be used to compute your final grade. 
 - **Assignment and Late Submission Policy:** Homework assignments are due before midnight on the due date unless specified otherwise.
 All written portion of your assignments must be typed and submitted in PDF format (no handwritten notes will be accepted). You must use [D2L](http://d2l.msu.edu) to submit a soft copy of your solution. Late assignments will be penalized 25% of the total possible assignment grade (if submitted the next day after the deadline) or 50% (if submitted the second day after the deadline). Assignments submitted later than that will not be accepted.
