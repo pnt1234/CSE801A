@@ -9,7 +9,7 @@
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
 - Instructor's office hours: Mon, Wed 12:00-1:00pm in EB 2129
 - Teaching Assistant:  Francisco Santos [[email](mailto:santosf3@msu.edu)] 
-- TA's office hours: Fri 1:00-2:00pm
+- TA's office hours: Fri 1:00-2:00pm in 3211 Anthony Hall
 - Office hour zoom link: [https://msu.zoom.us/j/91605552001](https://msu.zoom.us/j/91605552001) Passcode: 394098
 
 ### Course Description: 
