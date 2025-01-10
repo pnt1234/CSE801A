@@ -7,7 +7,7 @@
 - Lecture Location: Holden Hall C134
 - Teaching Modality: In-person.
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
-- Instructor's office hours: Mon, Wed 12:00-1:00pm in EB 2129
+- Instructor's office hours: Tue, Fri 8:30-9:30am in EB 2129
 - Teaching Assistant:  Francisco Santos [[email](mailto:santosf3@msu.edu)] 
 - TA's office hours: Fri 1:00-2:00pm in 3211 Anthony Hall
 - Office hour zoom link: [https://msu.zoom.us/j/91605552001](https://msu.zoom.us/j/91605552001) Passcode: 394098
@@ -75,7 +75,7 @@ More details about the academic calendar can be found at [https://reg.msu.edu/RO
 ### Course Policies:
 
 - **Attendance and Participation:** Students are expected to attend all the lectures and must inform the instructor if they are unable to do so due to emergency or other legitimate reasons. Failure to attend more than 5 lectures without permission from the instructor will result in 5% penalty in your overall grade.
-- **Weekly Exercises:** Weekly exercises are due on Fridays before midnight. These are short questions that require you to write programs based on the examples shown in class. The goal of these exercises is to help you get familiarize with the tools/programming languages used in the class. Only the top-10 highest scores from the exercises will be used to compute your final grade. 
+- **Weekly Exercises:** Weekly exercises are due on Fridays before midnight. These are short questions that require you to write programs based on the examples shown in class. The goal of these exercises is to help you get familiarize with the tools/programming languages used in the class. No late submission will be accepted. However, only the top-8 highest scores from the exercises will be used to compute your final grade. 
 - **Assignment and Late Submission Policy:** Homework assignments are due before midnight on the due date unless specified otherwise.
 All written portion of your assignments must be typed and submitted in PDF format (no handwritten notes will be accepted). You must use [D2L](http://d2l.msu.edu) to submit a soft copy of your solution. Late assignments will be penalized 25% of the total possible assignment grade (if submitted the next day after the deadline) or 50% (if submitted the second day after the deadline). Assignments submitted later than that will not be accepted.
 - **Exam Information:** There will be 2 exams in this class. The exam will be open book and notes. Make-up examination can be arranged if your absence is due to documented illness or personal emergency. A written explanation (including supporting documentation) must be submitted to the instructor; if the explanation is acceptable, an alternative to the examination will be arranged. Except for emergency cases, make-up arrangements must be made in advance, before the scheduled exam. 
