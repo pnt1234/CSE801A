@@ -12,11 +12,11 @@
 |    | 1/22/2025  | Data collection |
 | 3  | 1/27/2025  | Database querying |
 |    | 1/29/2025  | Database querying | 
-| 4  | 2/3/2025  | Data quality |
+| 4  | 2/3/2025  | Data exploration |
 |    | 2/5/2025   | Data quality | 
 | 5  | 2/10/2025   | Database preprocessing |
 |    | 2/12/2025   | Database preprocessing |
-| 6  | 2/17/2025  | Data exploration|
+| 6  | 2/17/2025  | Data preprocessing|
 |    | 2/19/2025  | Regression analysis  |
 | 7  | 2/24/2025  |  Regression analysis  |
 |    | 2/26/2025  | Classification  |
