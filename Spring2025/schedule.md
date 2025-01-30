@@ -12,7 +12,7 @@
 |    | 1/22/2025  | Data collection |
 | 3  | 1/27/2025  | Database querying |
 |    | 1/29/2025  | Database querying | 
-| 4  | 2/3/2025  | NoSQL |
+| 4  | 2/3/2025  | Data quality |
 |    | 2/5/2025   | Data quality | 
 | 5  | 2/10/2025   | Database preprocessing |
 |    | 2/12/2025   | Database preprocessing |
