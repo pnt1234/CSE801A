@@ -14,7 +14,7 @@
 |    | 1/29/2025  | Database querying | 
 | 4  | 2/3/2025  | Data summarization |
 |    | 2/5/2025   | Data quality | 
-| 5  | 2/10/2025   | Database preprocessing |
+| 5  | 2/10/2025   | Data quality |
 |    | 2/12/2025   | Database preprocessing |
 | 6  | 2/17/2025  | Data preprocessing|
 |    | 2/19/2025  | Regression analysis  |
