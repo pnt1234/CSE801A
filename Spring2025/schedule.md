@@ -34,7 +34,7 @@
 |    | 4/9/2025   | Hadoop (introduction)  |
 | 13 | 4/14/2025  | Hadoop Programming  |
 |    | 4/16/2025  | Pig Latin     |
-| 14 | 4/21/2025  | Pig Lati      |
+| 14 | 4/21/2025  | Pig Latin      |
 |    | 4/23/2025  | Apache Spark      | 
 | 15 | 4/28/2025  | Apache Spark    |
 |    | 4/30/2025  | Large language model    |
