@@ -32,10 +32,10 @@
 |    | 4/2/2025   | Anomaly Detection |
 | 12 | 4/7/2025   | Collaborative Filtering |
 |    | 4/9/2025   | Hadoop (introduction)  |
-| 13 | 4/14/2025  | Pig Latin  |
+| 13 | 4/14/2025  | Hadoop Programming  |
 |    | 4/16/2025  | Pig Latin     |
-| 14 | 4/21/2025  | Apache Spark      |
+| 14 | 4/21/2025  | Pig Lati      |
 |    | 4/23/2025  | Apache Spark      | 
-| 15 | 4/28/2025  | Large language model    |
+| 15 | 4/28/2025  | Apache Spark    |
 |    | 4/30/2025  | Large language model    |
 | 16 | 5/1/2025   | Final exam (7:45-9:45am) |
