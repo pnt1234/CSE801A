@@ -36,6 +36,4 @@
 |    | 4/16/2025  | Pig Latin     |
 | 14 | 4/21/2025  | Pig Latin      |
 |    | 4/23/2025  | Apache Spark      | 
-| 15 | 4/28/2025  | Apache Spark    |
-|    | 4/30/2025  | Large language model    |
 | 16 | 5/1/2025   | Final exam (7:45-9:45am) |
